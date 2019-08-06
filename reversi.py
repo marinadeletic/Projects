@@ -1,5 +1,5 @@
 # Marina Deletic
-# 27842967
+# Board Game reversi 1 or 2 players
 import copy
 
 
