@@ -1,9 +1,7 @@
 /*
-* Purpose: This file is designed to decode the cameras image from the reciver app
-* Team: 41
-* Author: Marina Deletic, Brandon Clarkson, Louis Choy, Hanbo Ding\
-* Last Modified: 10 April 2016
-*/
+* Purpose: This file is designed to decode the cameras image from a reciver app which displays 
+* red or blue for a period of time indicating either a dot or dash to send a morse code signal
+* Author: Marina Deletic
 
 
 
