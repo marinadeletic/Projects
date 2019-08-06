@@ -1,4 +1,4 @@
-#Marina Deletic, ID= 27842967
+#Marina Deletic
 
 from math import pow
 
